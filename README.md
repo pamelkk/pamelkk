@@ -4,6 +4,8 @@
 
 [![pamelkk's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pamelkk)](https://github.com/pamelkk/leetcode-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamelkk&theme=solarized_dark)
+
 <!--
 **pamelkk/pamelkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
