@@ -2,6 +2,8 @@
 
 [![codewars](https://www.codewars.com/users/pamelkk/badges/small)](https://www.codewars.com/users/pamelkk)
 
+[![pamelkk's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pamelkk)](https://github.com/pamelkk/leetcode-stats)
+
 <!--
 **pamelkk/pamelkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
