@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/pamelkk/badges/medium)](https://www.codewars.com/users/pamelkk)
+[![codewars](https://www.codewars.com/users/pamelkk/badges/small)](https://www.codewars.com/users/pamelkk)
 
 <!--
 **pamelkk/pamelkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
